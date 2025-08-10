@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 💎 **Ruby on Rails Developer** with 5+ years of experience in shipping robust, scalable web apps.
+- 💎 **Ruby on Rails Developer** with 6+ years of experience in shipping robust, scalable web apps.
 - 🏆 Passionate about building impactful tech for aviation, maritime, logistics, and more.
 - 🧩 Skilled at designing clean architectures & REST APIs, cloud deployments, and automation.
 - 👥 Mentor & team player focused on agile delivery and continuous learning.
@@ -61,8 +61,7 @@
 
 ## 🎓 Education
 
-**B.Tech in Computer Science and Engineering**  
-_Global Group of Institutions, Punjab Technical University (PTU)_
+**B.Tech in Computer Science and Engineering**
 
 ---
 
