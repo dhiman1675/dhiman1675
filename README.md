@@ -8,6 +8,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rohit-dhiman-226a7b208)
 [![Gmail](https://img.shields.io/badge/Email-dhiman1675@gmail.com-D14836?logo=gmail&style=flat-square)](mailto:dhiman1675@gmail.com)
 
+<br/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=dhiman1675&show_icons=true&theme=radical" width="400"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiman1675&theme=radical" width="400"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -78,23 +91,6 @@
 
 - English (Professional)
 - Hindi (Native)
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=dhiman1675&show_icons=true&theme=radical" width="400"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiman1675&theme=radical" width="400"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
